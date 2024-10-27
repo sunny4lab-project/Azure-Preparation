@@ -1,5 +1,29 @@
+![DALL·E 2024-10-26 19 42 33 - A detailed infographic showcasing the process of setting up a subscription and resources in Microsoft Azure, addressing failed authentication and log ](https://github.com/user-attachments/assets/88449906-f3fc-4a2a-b9b6-3f500be0e01d)
 
+## Project Overview
 
+This project involves setting up and managing Azure resources with a focus on authentication, logging, and Active Directory.
+
+### Steps Covered:
+1. **Creating Subscription and Resources:**  
+   We begin by setting up our Azure subscription and configuring the necessary resources.
+2. **Failed Authentication and Log Observation:**  
+   We address issues related to failed authentication attempts and utilize logs to analyze these events.
+3. **Azure Active Directory Overview:**  
+   An overview of Azure Active Directory, focusing on user accounts, group management, and access control.
+
+### Environments and Technologies Used:
+- **Microsoft Azure:** Cloud platform for managing and deploying resources.
+- **SQL Server:** Database management system used in the setup.
+- **Event Viewer:** Tool for monitoring and troubleshooting system logs.
+
+### Operating Systems Used:
+- **VM Windows 10 PRO (21H2):** Virtual machine environment for this setup.
+
+### Additional Focus:
+- Resource configuration and **SQL Server vulnerabilities**.
+
+<details><summary>Azure VM creation Details Here</summary>
 # Azure VM Creation Guide
 
 This guide provides step-by-step instructions for creating a Virtual Machine (VM) in Azure using the Azure Portal. Each step includes images for better visualization.
@@ -117,4 +141,5 @@ This guide provides step-by-step instructions for creating a Virtual Machine (VM
 ---
 
 ## Conclusion
-You have successfully created a Virtual Machine in Azure using the Azure Portal! From here, you can configure your VM further, install applications, or use it for testing and development.
+You have successfully created a Virtual Machine in Azure using the Azure Portal! From here, you can configure your VM further, install applications, or use it for testing and development. 
+</details>
